@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm V Krishnasubramaniam</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [E-Commerce Management System](https://github.com/Aamir-Ansari-almost/omkar-sweets)
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
